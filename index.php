@@ -7,5 +7,5 @@
 <body>
     <div>Test</div>
 </body>
-Hello this is a test
+Hello this is a website
 </html>
