@@ -6,7 +6,6 @@
 </head>
 <body>
     <div>Test</div>
-</body>lkdhnldgsd
-g\d\gsdg\dba_syncsd
-sdf
+</body>
+Hello this is a test
 </html>
